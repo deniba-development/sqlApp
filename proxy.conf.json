@@ -1,0 +1,6 @@
+{
+    "/deniba": {
+      "target": "http://srv1.deniba.at:1984",
+      "secure": false
+    }
+  }
